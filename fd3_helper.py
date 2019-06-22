@@ -557,7 +557,7 @@ def main():
 
 
 print("""
-### insplitter v1.2 ###
+### fd3-helper v1.2 ###
 """)
 
 main()
